@@ -1,0 +1,13 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css2?family=Overpass:wght@100;400;700;900&display=swap');
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "~bootstrap/scss/bootstrap";
+
+@import "root";
+@import "post";
+@import "category";
+@import "comment";

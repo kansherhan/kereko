@@ -1,0 +1,18 @@
+body {
+    background-color: #f0f0f0;
+}
+
+.search-form {
+    width: 250px;
+}
+
+.block {
+    background-color: #fff;
+
+    padding: $block-padding;
+    margin-bottom: $block-margin-bottom;
+
+    &:last-child {
+        margin-bottom: 0;
+    }
+}

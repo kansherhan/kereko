@@ -1,0 +1,28 @@
+.posts {
+    &-item {
+        &-username {
+            color: $font-color;
+            text-decoration: none;
+
+            font-weight: 700;
+
+            margin-right: 10px;
+        }
+
+        &-link {
+            color: $font-color;
+
+            text-decoration: none;
+        }
+    }
+}
+
+.post {
+    &-title {
+        font-size: 56px;
+    }
+
+    &-content {
+        font-size: 16px;
+    }
+}
